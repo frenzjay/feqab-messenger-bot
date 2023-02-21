@@ -16,44 +16,44 @@ It shoud have a connected message
 
 Commands
 =====
-!ai - AI powered response (API reference: https://www.facebook.com/permalink.php?story_fbid=pfbid02Uc1j3KJ13L1tncEcWgSt2RxBQcemYdiBJaiVC4SwXgDMNYFA85r3kYL1RhvNWcyrl&id=100087995763221)
+!ai [text] - AI powered response (API reference: https://www.facebook.com/permalink.php?story_fbid=pfbid02Uc1j3KJ13L1tncEcWgSt2RxBQcemYdiBJaiVC4SwXgDMNYFA85r3kYL1RhvNWcyrl&id=100087995763221)
 
 !bible - R-B-V
 
-!billboard - what
+!billboard [text] - what
 
-!choose - .
+!choose [obj1] [obj2] - .
 
-!google - search on Google
+!google [query] - search on Google
 
 !iss - Where ISS at?
 
-!lyrics - Gets the song lyrics
+!lyrics [song] - Gets the song lyrics
 
-!marry - Marry owo
+!marry [mention] - Marry owo
 
-!math - Basic 1+1, use !ai instead
+!math [math_problem] - Basic 1+1, use !ai instead
 
 !neo - Near earth objects
 
 !penis - oten
 
-!qr - Create qr code
+!qr [text] - Create qr code
 
 !quiz - is good
 
 !reset - Bot restart (Admin only)
 
-!rnamebot - Renames the Bot (Admin only)
+!rnamebot [name] - Renames the Bot (Admin only)
 
-!say - Text to speech
+!say [text] - Text to speech
 
 !shiba - Dog
 
-!sing - Sings a song from Youtube
+!sing [query] - Sings a song from Youtube
 
 !themecolor -  Changes theme color
 
-!toilet - Bowl
+!toilet [mention] - Bowl
 
-!award - xd
+!award [text] - xd
