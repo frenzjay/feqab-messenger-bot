@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'FEQAB - MB'
+copyright = '2023, frenzvalios.tk'
+author = 'Frenz Valios'
 
 release = '0.1'
 version = '0.1.0'
