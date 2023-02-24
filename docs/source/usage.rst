@@ -10,7 +10,7 @@ To use FEQAB - MB, first add this account to your GC:
 
 .. code-block:: console
 
-   https://www.facebook.com/frenzvalios / Frenz Jay-r Y. Valios
+   https://www.facebook.com/profile.php?id=100090293510340 / Feqab Ai
 
 It shoud have a connected message
 
