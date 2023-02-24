@@ -36,5 +36,3 @@ Use the following commands to interact with FEQAB - MB:
 - `!themecolor` - Changes the theme color
 - `!toilet [mention]` - Sends the mentioned person to the bathroom
 - `!award [text]` - Gives an award to the mentioned person
-
-## Code
